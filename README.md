@@ -1,7 +1,9 @@
-# presentacion-
+# **PRESENTACIÓN**
 
 - Escriban presentación sobre ustedes.
+	-* HECHO
 - Suban la presentación a Git.
+	-* HECHO
 - Realicen algun cambio.
 - Suban los nuevos cambios.
 - Compartan el link por discord
